@@ -1,3 +1,4 @@
 name: Soteria Medtech
 markdown: kramdown
-remote_theme: rohanchandra/type-theme
+
+theme: jekyll-theme-tactile
